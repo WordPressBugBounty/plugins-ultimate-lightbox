@@ -2,8 +2,8 @@
 Contributors: Rustaurius, EtoileWebDesign
 Tags: lightbox, wordpress lightbox, jquery lightbox, image zoom, image lightbox
 Requires at least: 3.5.0
-Tested up to: 6.6
-Stable tag: 1.1.8
+Tested up to: 6.7
+Stable tag: 1.1.9
 License: GPLv3
 License URI:http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -106,6 +106,9 @@ Just go to the "Icons" area of the lightbox options to choose your arrow graphic
 In the "Styling" area of the lightbox options, you can modify the color, size and font size for virtually every element that makes up the lightbox.
 
 == Changelog ==
+
+= 1.1.9 (2024-11-25) =
+- Tested with WordPress 6.7.
 
 = 1.1.8 (2024-07-16) =
 - Tested with WordPress 6.6.
