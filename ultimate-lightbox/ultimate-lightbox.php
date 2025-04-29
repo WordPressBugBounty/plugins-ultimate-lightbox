@@ -7,7 +7,7 @@ Author: Etoile Web Design
 Author URI: http://www.EtoileWebDesign.com/
 Terms and Conditions: http://www.etoilewebdesign.com/plugin-terms-and-conditions/
 Text Domain: ultimate-lightbox
-Version: 1.1.9
+Version: 1.1.10
 */
 
 if ( ! defined( 'ABSPATH' ) )
@@ -42,7 +42,7 @@ class ulbInit {
 		define( 'EWD_ULB_PLUGIN_DIR', untrailingslashit( plugin_dir_path( __FILE__ ) ) );
 		define( 'EWD_ULB_PLUGIN_URL', untrailingslashit( plugin_dir_url( __FILE__ ) ) );
 		define( 'EWD_ULB_PLUGIN_FNAME', plugin_basename( __FILE__ ) );
-		define( 'EWD_ULB_VERSION', '1.1.9' );
+		define( 'EWD_ULB_VERSION', '1.1.10' );
 	}
 
 	/**
